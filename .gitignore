@@ -1,0 +1,109 @@
+################################################## Idea
+.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+################################################## Android Studio
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+################################################## Maven
+target/
+
+################################################## Eclipse
+.metadata
+.project
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.classpath
+.factorypath
+.buildpath
+.target
+
+################################################## Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+################################################## Sbt
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+
+################################################## Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+
+################################################## Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.org-id-locations
+*_archive
+*_flymake.*
+/eshell/history
+/eshell/lastdir
+/elpa/
+*.rel
+/auto/
+.cask/
+
+################################################## Ensime
+.ensime
+.ensime_cache/
+.ensime_lucene/
+
+################################################## *nix
+*~
+.directory
+.swp.*
+.*.kate-swp
+.Trash-*
+
+################################################## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+################################################## Microsoft Office
+~$*.doc*
+~$*.xls*
+*.xlk
+
+################################################## LibreOffice
+.~lock.*#

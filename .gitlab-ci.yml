@@ -1,0 +1,12 @@
+junit:
+    script:
+        - mvn clean test
+    only:
+        - branches
+
+deploy:
+    type: deploy
+    script:
+        - mvn clean deploy -DskipTests=true
+    only:
+        - master
